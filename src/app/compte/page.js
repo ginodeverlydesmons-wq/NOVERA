@@ -1,0 +1,2 @@
+export const metadata = { title: "Mon compte" };
+export default function Compte(){return <div className="container py-24 max-w-2xl"><p className="eyebrow text-muted mb-4">ESPACE CLIENT</p><h1 className="section-title">Mon compte.</h1><p className="text-sm text-muted mt-6 leading-7">L'espace client sera activé lors de la mise en place de l'authentification et de la gestion sécurisée des commandes.</p></div>}
