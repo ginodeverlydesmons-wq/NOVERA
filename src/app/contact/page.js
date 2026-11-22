@@ -1,0 +1,2 @@
+export const metadata = { title: "Contact" };
+export default function Contact(){return <div className="container py-20 max-w-2xl"><p className="eyebrow text-muted mb-4">ÉCRIVEZ-NOUS</p><h1 className="section-title">Contact.</h1><p className="text-sm text-muted mt-5 leading-7">Les coordonnées du service client seront ajoutées avant l'ouverture officielle de NOVERA. Aucun service client opérationnel n'est encore configuré.</p></div>}
