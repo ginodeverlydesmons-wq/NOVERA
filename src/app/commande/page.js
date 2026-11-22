@@ -1,0 +1,2 @@
+export const metadata = { title: "Commande" };
+export default function Commande(){return <div className="container py-24 max-w-2xl"><p className="eyebrow text-muted mb-4">FINALISER</p><h1 className="section-title">Commande.</h1><p className="text-sm text-muted mt-6 leading-7">Le paiement n'est pas activé dans cette version. Avant toute ouverture, cette étape devra être reliée à un prestataire de paiement et à un système de gestion des commandes et de livraison.</p></div>}
